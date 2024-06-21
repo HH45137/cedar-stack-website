@@ -1,0 +1,27 @@
+\hypertarget{classCedar_1_1Core_1_1Container_1_1Tuple_3_01T_00_01Ts_8_8_8_01_4}{}\doxysection{Cedar\+::Core\+::Container\+::Tuple$<$ T, Ts... $>$ Class Template Reference}
+\label{classCedar_1_1Core_1_1Container_1_1Tuple_3_01T_00_01Ts_8_8_8_01_4}\index{Cedar::Core::Container::Tuple$<$ T, Ts... $>$@{Cedar::Core::Container::Tuple$<$ T, Ts... $>$}}
+
+
+Inheritance diagram for Cedar\+::Core\+::Container\+::Tuple$<$ T, Ts... $>$\+:
+% FIG 0
+
+
+Collaboration diagram for Cedar\+::Core\+::Container\+::Tuple$<$ T, Ts... $>$\+:
+% FIG 1
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classCedar_1_1Core_1_1Container_1_1Tuple_3_01T_00_01Ts_8_8_8_01_4_ab2ed376fb0ad0df2a53516edd11ca99c}\label{classCedar_1_1Core_1_1Container_1_1Tuple_3_01T_00_01Ts_8_8_8_01_4_ab2ed376fb0ad0df2a53516edd11ca99c}} 
+{\bfseries Tuple} (T val, Ts... vals)
+\item 
+\mbox{\Hypertarget{classCedar_1_1Core_1_1Container_1_1Tuple_3_01T_00_01Ts_8_8_8_01_4_aabef768a7c1f4d777e1aba52e4f99c8e}\label{classCedar_1_1Core_1_1Container_1_1Tuple_3_01T_00_01Ts_8_8_8_01_4_aabef768a7c1f4d777e1aba52e4f99c8e}} 
+T {\bfseries get\+Value} ()
+\item 
+\mbox{\Hypertarget{classCedar_1_1Core_1_1Container_1_1Tuple_3_01T_00_01Ts_8_8_8_01_4_a7b05694641a25a40b760336d8054aca6}\label{classCedar_1_1Core_1_1Container_1_1Tuple_3_01T_00_01Ts_8_8_8_01_4_a7b05694641a25a40b760336d8054aca6}} 
+{\footnotesize template$<$int index$>$ }\\auto {\bfseries get} ()
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Cedar/\+Core/\+Container/Tuple.\+h\end{DoxyCompactItemize}
